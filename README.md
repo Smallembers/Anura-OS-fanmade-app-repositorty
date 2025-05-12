@@ -2,7 +2,7 @@
 Welcome to the unofficial community app hub for Anura OS and its Terbium desktop!
 
 ## 📦 Apps
-- **Example App** – A sample calculator for Anura OS.
+- **calculator Example App** – A sample calculator for Anura OS.
 
 ## 🎨 Themes
 - **Purple Rain** – A modern purple theme with glass-like UI.
